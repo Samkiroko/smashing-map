@@ -2,9 +2,10 @@
 
 > Hit map of smashing magazine website
 
-![screenshot](./app_screenshot.png)
+![image](https://user-images.githubusercontent.com/43377799/72084805-3bdeac00-3315-11ea-9869-a5f55c9ab087.png)
 
-Project was set to show our understing of the UI and UX of develop site and their application to diffrent interface.
+
+Project was set to show our understanding  of  UI and UX, design and their application to diffrent interface.
 
 ## Built With
 
@@ -13,7 +14,7 @@ Project was set to show our understing of the UI and UX of develop site and thei
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://stoic-visvesvaraya-9d9594.netlify.com/)
 
 
 ## Getting Started

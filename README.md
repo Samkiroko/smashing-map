@@ -14,6 +14,8 @@ Project was set to show our understanding  of  UI and UX, design and their appli
 
 ## Live Demo
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f3d62c09-ed3d-4740-b91a-1d9541591e5e/deploy-status)](https://app.netlify.com/sites/stoic-visvesvaraya-9d9594/deploys)
+
 [Live Demo Link](https://stoic-visvesvaraya-9d9594.netlify.com/)
 
 

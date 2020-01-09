@@ -1,6 +1,6 @@
 # smashing-map
 
-> Hit map of smashing magazine website
+> heatmap  of smashing magazine website
 
 ![image](https://user-images.githubusercontent.com/43377799/72084805-3bdeac00-3315-11ea-9869-a5f55c9ab087.png)
 
